@@ -1,11 +1,6 @@
 from array import array
-import sys
 import itertools
-from pprint import pprint
-from struct import *
-from bson.binary import Binary
 
-import binascii
 
 class Dna(object):
     def __init__(self):
